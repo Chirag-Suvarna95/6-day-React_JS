@@ -9,21 +9,21 @@ export default function Profile() {
     const users = [
         {
             id: 1,
-            name: "Mr Meow Meow",
-            email: "Meowstation@gmail.com",
-            avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF0iwZtvJuTWe1YPpujX91hvMR_sC9YlSuQw&s"
+            name: "James",
+            email: "thenameisbond@gmail.com",
+            avatar: "https://static.wikia.nocookie.net/jamesbond/images/8/81/James_Bond_%28Daniel_Craig%29_-_Profile.jpg/revision/latest?cb=20220103100438"
         },
         {
             id: 2,
-            name: "Miss Purrington",
-            email: "purrfect@example.com",
-            avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6yPZZXvRBPP9z-hrBgJNDnmUhh9ud9QzLgA&s"
+            name: "Jason",
+            email: "jacobb@example.com",
+            avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Matt_Damon_TIFF_2015.jpg/220px-Matt_Damon_TIFF_2015.jpg"
         },
         {
             id: 3,
-            name: "Captain Whiskers",
-            email: "whiskers@feline.com",
-            avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP47FxC-XjLqV33QxCyS7GmMLoZ6G8DEJbaA&s"
+            name: "John",
+            email: "wick@feline.com",
+            avatar: "https://www.usatoday.com/gcdn/presto/2023/03/20/USAT/c629661e-b8c8-4fe5-a7a6-77560354a65b-john-wick-chapter-4-JW4_Unit_211027_00134_R2_rgb.jpg?crop=3042,3042,x1058,y0"
         }
     ];
 
